@@ -1,0 +1,20 @@
+.mae {
+    background-color: rgb(211, 164, 231);
+    height: 250px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.velha {
+    background-color:#ff1493;
+    height: 250px;
+    width: 250px;
+    border: 20px dashed red ;
+}
+
+.nova {
+    background-color:aquamarine;
+    height: 88%;
+    width: 33%;
+}

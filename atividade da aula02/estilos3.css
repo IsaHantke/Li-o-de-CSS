@@ -1,0 +1,37 @@
+
+body {
+    background-color: #a9a9a9;
+}
+
+.mae {
+ background-color: rgb(249, 252, 255);
+ height: 500px;
+ width: 50vw;
+ border:  10px dotted black;
+ display: flex;
+ flex-direction: column;
+ justify-content: center;
+ align-items: center;
+}
+
+.mae .velha {
+    background-color: rgb(255, 255, 177);
+    height: 50px;
+    width: 30%;
+}
+
+.mae .meio {
+    background-color: rgb(255, 182, 47);
+    height: 100px;
+    width: 30%;
+
+}
+
+.mae .nova {
+    background-color: rgb(123, 212, 123);
+    color: white;
+    font-size: 30px;
+    padding: 50px;
+    margin-left: 50px;
+    margin-top: 50px;
+}
